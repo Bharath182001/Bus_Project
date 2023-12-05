@@ -28,7 +28,7 @@ Upon registration, passengers are allocated seats based on their gender. Females
 
 - **Ajax:**
   <br>
-  <img src="[to.png](https://www.pngkit.com/png/detail/378-3783642_using-ajax-technology-in-web-applications-proves-to.png)" alt="Ajax Logo" width="25">
+ <img src="https://img.icons8.com/ios/452/ajax-loader.png" alt="Ajax Logo" width="25">
 
 - **jQuery:**
   <br>
