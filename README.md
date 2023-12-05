@@ -30,13 +30,13 @@ Upon registration, passengers are allocated seats based on their gender. Females
  - **Ajax:**
   <div style="display: flex; align-items: center;">
     &nbsp;&nbsp;&nbsp; <!-- Adjust the number of spaces based on your preference -->
-    <img src="https://www.pngkit.com/png/detail/378-3783642_using-ajax-technology-in-web-applications-proves-to.png" alt="Ajax Logo" width="50">
+    <img src="https://www.pngkit.com/png/detail/378-3783642_using-ajax-technology-in-web-applications-proves-to.png" alt="Ajax Logo" width="70">
   </div>
 
 
 - **jQuery:**
   <br>
-  <img src="https://img.icons8.com/ios/452/jquery.png" alt="jQuery Logo" width="70">
+  <img src="https://img.icons8.com/ios/452/jquery.png" alt="jQuery Logo" width="50">
 
 - **PHP:**
   <br>
