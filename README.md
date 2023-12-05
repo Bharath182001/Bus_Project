@@ -60,7 +60,7 @@ Upon registration, passengers are allocated seats based on their gender. Females
   
 - **MySQL:**
    <br>
-  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL Logo" width="50">
+  <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL Logo" width="70">
   
 
 
