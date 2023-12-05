@@ -36,7 +36,7 @@ Upon registration, passengers are allocated seats based on their gender. Females
 
 - **jQuery:**
   <br>
-  <img src="https://img.icons8.com/ios/452/jquery.png" alt="jQuery Logo" width="50">
+  <img src="https://img.icons8.com/ios/452/jquery.png" alt="jQuery Logo" width="70">
 
 - **PHP:**
   <br>
@@ -48,7 +48,7 @@ Upon registration, passengers are allocated seats based on their gender. Females
 
 - **Bootstrap:**
   <br>
-  <img src="https://getbootstrap.com/docs/5.0/assets/img/bootstrap-icons.png" alt="Bootstrap Logo" width="50">
+  <img src="https://getbootstrap.com/docs/5.0/assets/img/bootstrap-icons.png" alt="Bootstrap Logo" width="70">
 
 - **CSS:**
   <br>
