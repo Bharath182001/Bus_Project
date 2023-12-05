@@ -36,27 +36,27 @@ Upon registration, passengers are allocated seats based on their gender. Females
 
 - **jQuery:**
   <br>
-  <img src="https://img.icons8.com/ios/452/jquery.png" alt="jQuery Logo" width="25">
+  <img src="https://img.icons8.com/ios/452/jquery.png" alt="jQuery Logo" width="50">
 
 - **PHP:**
   <br>
-  <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP Logo" width="25">
+  <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP Logo" width="50">
 
 - **HTML:**
   <br>
-  <img src="https://www.w3.org/html/logo/badge/html5-badge-h-css3-semantics.png" alt="HTML Logo" width="25">
+  <img src="https://www.w3.org/html/logo/badge/html5-badge-h-css3-semantics.png" alt="HTML Logo" width="50">
 
 - **Bootstrap:**
   <br>
-  <img src="https://getbootstrap.com/docs/5.0/assets/img/bootstrap-icons.png" alt="Bootstrap Logo" width="25">
+  <img src="https://getbootstrap.com/docs/5.0/assets/img/bootstrap-icons.png" alt="Bootstrap Logo" width="50">
 
 - **CSS:**
   <br>
-  <img src="https://cdn.iconscout.com/icon/free/png-512/css-131-722685.png" alt="CSS Logo" width="25">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/css-131-722685.png" alt="CSS Logo" width="50">
 
 - **JavaScript:**
   <br>
-  <img src="https://img.icons8.com/color/452/javascript.png" alt="JavaScript Logo" width="25">
+  <img src="https://img.icons8.com/color/452/javascript.png" alt="JavaScript Logo" width="50">
 
 ## Contributors
 
