@@ -24,10 +24,30 @@ Upon registration, passengers are allocated seats based on their gender. Females
 
 - **Overall Reports:** Generate comprehensive reports that encompass the entire system, offering a holistic view of all buses and their respective data.
 
+## Technologies Used
 
+- **Ajax:**
+  <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/in.png" alt="Ajax Logo" width="25">
+
+- **jQuery:**
+  <img src="https://img.icons8.com/ios/452/jquery.png" alt="jQuery Logo" width="25">
+
+- **PHP:**
+  <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP Logo" width="25">
+
+- **HTML:**
+  <img src="https://www.w3.org/html/logo/badge/html5-badge-h-css3-semantics.png" alt="HTML Logo" width="25">
+
+- **Bootstrap:**
+  <img src="https://getbootstrap.com/docs/5.0/assets/img/bootstrap-icons.png" alt="Bootstrap Logo" width="25">
+
+- **CSS:**
+  <img src="https://cdn.iconscout.com/icon/free/png-512/css-131-722685.png" alt="CSS Logo" width="25">
+
+- **JavaScript:**
+  <img src="https://img.icons8.com/color/452/javascript.png" alt="JavaScript Logo" width="25">
 
 ## Contributors
 
 - BHARATH R 
 - SABHARI 
-
