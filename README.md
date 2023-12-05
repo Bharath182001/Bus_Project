@@ -24,15 +24,7 @@ Upon registration, passengers are allocated seats based on their gender. Females
 
 - **Overall Reports:** Generate comprehensive reports that encompass the entire system, offering a holistic view of all buses and their respective data.
 
-## Usage
 
-### Direct Implementation (Without Cloning)
-
-1. Download the project files from [link to your project files].
-
-2. Set up the required databases for storing seat allocations, stop details, and reports.
-
-3. Configure the system to match the specific needs and preferences of your transportation service.
 
 ## Contributors
 
